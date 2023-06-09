@@ -62,7 +62,7 @@ yarn test
 ## Apollo Server
 
 ```bash
-http://localhost:${API_PORT}/graphql
+http://localhost:${API_PORT}
 ```
 
 ## Authors
